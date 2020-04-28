@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/projet-sprint-react/static/css/main.d1b05096.chunk.css",
-    "main.js": "/projet-sprint-react/static/js/main.c77f8296.chunk.js",
-    "main.js.map": "/projet-sprint-react/static/js/main.c77f8296.chunk.js.map",
-    "runtime-main.js": "/projet-sprint-react/static/js/runtime-main.1c3ed0ca.js",
-    "runtime-main.js.map": "/projet-sprint-react/static/js/runtime-main.1c3ed0ca.js.map",
-    "static/js/2.be79cef5.chunk.js": "/projet-sprint-react/static/js/2.be79cef5.chunk.js",
-    "static/js/2.be79cef5.chunk.js.map": "/projet-sprint-react/static/js/2.be79cef5.chunk.js.map",
-    "index.html": "/projet-sprint-react/index.html",
-    "precache-manifest.1bd14832905a8bfbaacefc2b78490c9f.js": "/projet-sprint-react/precache-manifest.1bd14832905a8bfbaacefc2b78490c9f.js",
-    "service-worker.js": "/projet-sprint-react/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/projet-sprint-react/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.be79cef5.chunk.js.LICENSE.txt": "/projet-sprint-react/static/js/2.be79cef5.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/projet-sprint-react/static/media/logo.5d5d9eef.svg"
+    "main.css": "/project-sprint-react/static/css/main.d1b05096.chunk.css",
+    "main.js": "/project-sprint-react/static/js/main.ffddf796.chunk.js",
+    "main.js.map": "/project-sprint-react/static/js/main.ffddf796.chunk.js.map",
+    "runtime-main.js": "/project-sprint-react/static/js/runtime-main.71d80983.js",
+    "runtime-main.js.map": "/project-sprint-react/static/js/runtime-main.71d80983.js.map",
+    "static/js/2.36aa3bda.chunk.js": "/project-sprint-react/static/js/2.36aa3bda.chunk.js",
+    "static/js/2.36aa3bda.chunk.js.map": "/project-sprint-react/static/js/2.36aa3bda.chunk.js.map",
+    "index.html": "/project-sprint-react/index.html",
+    "precache-manifest.92cd17d660b9cd3f2951a1f700d44825.js": "/project-sprint-react/precache-manifest.92cd17d660b9cd3f2951a1f700d44825.js",
+    "service-worker.js": "/project-sprint-react/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/project-sprint-react/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.36aa3bda.chunk.js.LICENSE.txt": "/project-sprint-react/static/js/2.36aa3bda.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/project-sprint-react/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.1c3ed0ca.js",
-    "static/js/2.be79cef5.chunk.js",
+    "static/js/runtime-main.71d80983.js",
+    "static/js/2.36aa3bda.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.c77f8296.chunk.js"
+    "static/js/main.ffddf796.chunk.js"
   ]
 }
