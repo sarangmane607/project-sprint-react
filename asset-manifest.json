@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/project-sprint-react/static/css/main.d1b05096.chunk.css",
-    "main.js": "/project-sprint-react/static/js/main.ffddf796.chunk.js",
-    "main.js.map": "/project-sprint-react/static/js/main.ffddf796.chunk.js.map",
+    "main.js": "/project-sprint-react/static/js/main.61da1b92.chunk.js",
+    "main.js.map": "/project-sprint-react/static/js/main.61da1b92.chunk.js.map",
     "runtime-main.js": "/project-sprint-react/static/js/runtime-main.71d80983.js",
     "runtime-main.js.map": "/project-sprint-react/static/js/runtime-main.71d80983.js.map",
     "static/js/2.36aa3bda.chunk.js": "/project-sprint-react/static/js/2.36aa3bda.chunk.js",
     "static/js/2.36aa3bda.chunk.js.map": "/project-sprint-react/static/js/2.36aa3bda.chunk.js.map",
     "index.html": "/project-sprint-react/index.html",
-    "precache-manifest.92cd17d660b9cd3f2951a1f700d44825.js": "/project-sprint-react/precache-manifest.92cd17d660b9cd3f2951a1f700d44825.js",
+    "precache-manifest.241d315fb0269f8a090b13d467e67a7b.js": "/project-sprint-react/precache-manifest.241d315fb0269f8a090b13d467e67a7b.js",
     "service-worker.js": "/project-sprint-react/service-worker.js",
     "static/css/main.d1b05096.chunk.css.map": "/project-sprint-react/static/css/main.d1b05096.chunk.css.map",
     "static/js/2.36aa3bda.chunk.js.LICENSE.txt": "/project-sprint-react/static/js/2.36aa3bda.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.71d80983.js",
     "static/js/2.36aa3bda.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.ffddf796.chunk.js"
+    "static/js/main.61da1b92.chunk.js"
   ]
 }
